@@ -1,0 +1,4 @@
+lenguaje: java
+rvm: 
+  -4.12
+  -junit 

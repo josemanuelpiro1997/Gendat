@@ -21,6 +21,6 @@ public class UserTest {
         testUser.addEvent(eventName);
 
         //test
-        assertEquals(testUser.getEvent(eventName).getEventName(),"asd");
+        assertEquals(testUser.getEvent(eventName).getEventName(),eventName);
     }
 }
